@@ -1,0 +1,6 @@
+prx_simulation/state_msg[] traj
+prx_simulation/control_msg[] plan
+---
+bool success
+---
+float64 progress
